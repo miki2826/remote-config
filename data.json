@@ -1,0 +1,20 @@
+{
+  "data": {
+    "assignments": {
+      "sugars": [
+        "http://sugar-1:8081",
+        "http://sugar-2:8082",
+        "http://sugar-3:8083"
+      ],
+      "aggregators": [
+        "http://aggregator-1:9091"
+      ],
+      "suppliers": [
+        "http://edge-1:7071",
+        "http://edge-2:7072",
+        "http://edge-3:7073",
+        "http://edge-4:7074"
+      ]
+    }
+  }
+}
