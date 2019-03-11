@@ -9,7 +9,8 @@
         "aggregator-1:6091"
       ],
       "suppliers": [
-        "host.docker.internal:6071"
+        "edge-1:6071",
+        "edge-2:6072"
       ]
     }
   }
