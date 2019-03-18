@@ -2,7 +2,6 @@
   "data": {
     "assignments": {
       "sugars": [
-        "sugar:80",
         "sugar-1:80",
         "sugar-2:80"
       ],
@@ -10,10 +9,8 @@
         "aggregator:80"
       ],
       "suppliers": [
-        "edge:80",
         "edge-1:80",
-        "edge-2:80",
-        "edge-3:80"
+        "edge-2:80"
       ]
     }
   }
