@@ -3,14 +3,17 @@
     "assignments": {
       "sugars": [
         "sugar-1:8081",
-        "sugar-2:8081"
+        "sugar-2:8081",
+        "sugar-3:8081"
       ],
       "aggregators": [
         "aggregator:8081"
       ],
       "suppliers": [
         "edge-1:8081",
-        "edge-2:8081"
+        "edge-2:8081",
+        "edge-3:8081",
+        "edge-4:8081"
       ]
     }
   }
