@@ -2,18 +2,18 @@
   "data": {
     "assignments": {
       "sugars": [
-        "sugar-1:8081",
-        "sugar-2:8081",
-        "sugar-3:8081"
+        "sugar1.dev.identiq.com",
+        "sugar2.dev.identiq.com",
+        "sugar3.dev.identiq.com"
       ],
       "aggregators": [
         "aggregator:8081"
       ],
       "suppliers": [
-        "edge-1:8081",
-        "edge-2:8081",
-        "edge-3:8081",
-        "edge4.dev.identiq.com"
+        "edge1grpc.dev.identiq.com",
+        "edge2grpc.dev.identiq.com",
+        "edge3grpc.dev.identiq.com",
+        "edge4grpc.dev.identiq.com"
       ]
     }
   }
