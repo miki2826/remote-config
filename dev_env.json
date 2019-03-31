@@ -7,7 +7,7 @@
         "sugar3.dev.identiq.com:80"
       ],
       "aggregators": [
-        "35.239.176.131:8081"
+        "aggregator.dev.identiq.com:8081"
       ],
       "suppliers": [
         "edge1grpc.dev.identiq.com:80",
