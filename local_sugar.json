@@ -2,7 +2,7 @@
   "data": {
     "assignments": {
       "sugars": [
-        "host.docker.internal:3003",
+        "host.docker.internal:5003",
         "sugar-2:6082"
       ],
       "aggregators": [
