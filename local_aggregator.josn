@@ -1,0 +1,17 @@
+{
+  "data": {
+    "assignments": {
+      "sugars": [
+        "sugar-1:6081",
+        "sugar-2:6082"
+      ],
+      "aggregators": [
+        "host.docker.internal:4003"
+      ],
+      "suppliers": [
+        "edge-1:6071",
+        "edge-2:6072"
+      ]
+    }
+  }
+}
