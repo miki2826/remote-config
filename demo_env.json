@@ -1,0 +1,20 @@
+{
+  "data": {
+    "assignments": {
+      "sugars": [
+        "sugar1.identiq.id:80",
+        "sugar2.identiq.id:80",
+        "sugar3.identiq.id:80"
+      ],
+      "aggregators": [
+        "aggregator.identiq.id:8081"
+      ],
+      "suppliers": [
+        "edge1grpc.identiq.id:80",
+        "edge2grpc.identiq.id:80",
+        "edge3grpc.identiq.id:80",
+        "edge4grpc.identiq.id:80"
+      ]
+    }
+  }
+}
