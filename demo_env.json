@@ -10,10 +10,7 @@
         "aggregator.identiq.id:8081"
       ],
       "suppliers": [
-        "edge1grpc.identiq.id:80",
-        "edge2grpc.identiq.id:80",
-        "edge3grpc.identiq.id:80",
-        "edge4grpc.identiq.id:80"
+        "edge1grpc.identiq.id:80"
       ]
     }
   }
