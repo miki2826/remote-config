@@ -1,0 +1,15 @@
+{
+  "data": {
+    "assignments": {
+      "sugars": [
+        "sugar-1:5003",
+      ],
+      "aggregators": [
+        "aggregator-1:4003"
+      ],
+      "suppliers": [
+        "edge-1:1003"
+      ]
+    }
+  }
+}
