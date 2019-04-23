@@ -6,7 +6,7 @@
         "sugar-2:6082"
       ],
       "aggregators": [
-        "aggregator-1:6091"
+        "host.docker.internal:4003"
       ],
       "suppliers": [
         "edge-1:6071",
