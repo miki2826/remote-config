@@ -1,8 +1,8 @@
 {
-  "email": 4,
-  "phone": 4,
-  "zip": 10,
-  "country": 4,
-  "ip": 10,
-  "deviceId": 10
+  "email": { index: 0, cap: 4 },
+  "phone": { index: 1, cap: 4 },
+  "zip": { index: 2, cap: 10 },
+  "country": { index: 3, cap: 4 },
+  "ip": { index: 4, cap: 10 },
+  "deviceId": { index: 5, cap: 10 }
 }
