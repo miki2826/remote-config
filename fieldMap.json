@@ -1,0 +1,8 @@
+{
+  "email": 4,
+  "phone": 4,
+  "zip": 10,
+  "country": 4,
+  "ip": 10,
+  "deviceId": 10
+}
