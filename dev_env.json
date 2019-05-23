@@ -8,7 +8,7 @@
         "aggregator.identiq.dev:8081"
       ],
       "suppliers": [
-        "edge8grpc.identiq.dev:80"
+        "edge7grpc.identiq.dev:80"
       ]
     }
   }
