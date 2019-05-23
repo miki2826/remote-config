@@ -10,10 +10,7 @@
         "aggregator.identiq.dev:8081"
       ],
       "suppliers": [
-        "edge3grpc.identiq.dev:80",
-        "edge4grpc.identiq.dev:80",
-        "edge7grpc.identiq.dev:80",
-        "edge8grpc.identiq.dev:80"
+        "edge9grpc.identiq.dev:80"
       ]
     }
   }
