@@ -11,7 +11,8 @@
       ],
       "suppliers": [
         "edge7grpc.identiq.dev:80",
-        "edge8grpc.identiq.dev:80"
+        "edge8grpc.identiq.dev:80",
+        "edge9grpc.identiq.dev:80"
       ]
     }
   }
