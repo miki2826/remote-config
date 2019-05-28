@@ -1,8 +1,8 @@
 {
-  "email": { "id": "0", "cap": 2, "pk": true },
-  "phone": { "id": "1", "cap": 3, "pk": true },
-  "zip": { "id": "2", "cap": 5 },
-  "country": { "id": "3", "cap": 3 },
+  "email": { "id": "0", "cap": 4, "pk": true },
+  "phone": { "id": "1", "cap": 4, "pk": true },
+  "zip": { "id": "2", "cap": 10 },
+  "country": { "id": "3", "cap": 4 },
   "ip": { "id": "4", "cap": 10 },
-  "deviceId": { "id": "5", "cap": 5 }
+  "deviceId": { "id": "5", "cap": 10 }
 }
