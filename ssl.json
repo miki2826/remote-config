@@ -2,15 +2,13 @@
   "data": {
     "assignments": {
       "sugars": [
-        "sugar-1:6081",
-        "sugar-2:6082"
+        "sugar1.identiq.dev:80"
       ],
       "aggregators": [
         "aggregatorgrpc.identiq.dev:443"
       ],
       "suppliers": [
-        "edge-1:6071",
-        "edge-2:6072"
+        "edge9grpc.identiq.dev:80"
       ]
     }
   }
