@@ -9,8 +9,7 @@
         "aggregatorgrpc.identiq.dev:443"
       ],
       "suppliers": [
-        "edge7grpc.identiq.dev:80",
-        "edge8grpc.identiq.dev:80"
+        "edge7grpc.identiq.dev:80"
       ]
     }
   }
