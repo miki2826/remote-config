@@ -2,8 +2,7 @@
   "data": {
     "assignments": {
       "sugars": [
-        "sugar1.identiq.dev:80",
-        "sugar2.identiq.dev:80"
+        "sugar1.identiq.dev:80"
       ],
       "aggregators": [
         "aggregatorgrpc.identiq.dev:443"
