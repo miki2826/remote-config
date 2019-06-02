@@ -5,7 +5,7 @@
         "sugar-1:6081"
       ],
       "aggregators": [
-        "aggregator-1:6091"
+        "aggregatorgrpc.identiq.dev:443"
       ],
       "suppliers": [
         "edge1.identiq.dev:443"
