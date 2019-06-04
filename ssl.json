@@ -11,8 +11,7 @@
       ],
       "suppliers": [
         "edge5.identiq.dev:443",
-        "edge7.identiq.dev:443",
-        "edge8.identiq.dev:443"
+        "edge7.identiq.dev:443"
       ]
     }
   }
