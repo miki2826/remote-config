@@ -11,7 +11,7 @@
         },
         {
             "service": "aggregator",
-            "ruleCls": "rules/available.rule"
+            "ruleCls": "rules/round-robin-one.rule"
         }
     ]
 }
