@@ -4,7 +4,7 @@
       "sugars": [
         "sugar1.identiq.dev:443",
         "sugar2.identiq.dev:443",
-        "sugar3.identiq.dev:443"
+        "sugar3.identiq.dev:443",
         "sugar4.identiq.dev:443"
       ],
       "aggregators": [
