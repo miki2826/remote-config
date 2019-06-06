@@ -3,15 +3,15 @@
     "rules": [
         {
             "service": "supplier",
-            "ruleCls": "rules/round-robin-three.rule"
+            "ruleCls": "rules/available.rule"
         },
         {
             "service": "sugar",
-            "ruleCls": "rules/random-three.rule"
+            "ruleCls": "rules/available.rule"
         },
         {
             "service": "aggregator",
-            "ruleCls": "rules/round-robin-one.rule"
+            "ruleCls": "rules/available.rule"
         }
     ]
 }
