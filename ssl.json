@@ -10,7 +10,8 @@
         "aggregator.identiq.dev:443"
       ],
       "suppliers": [
-        "edge7.identiq.dev:443"
+        "edge7.identiq.dev:443",
+        "edge5.identiq.dev:443"
       ]
     }
   }
