@@ -4,21 +4,13 @@
       "sugars": [
         "sugar1.identiq.dev:443",
         "sugar2.identiq.dev:443",
-        "sugar4.identiq.dev:443"
+        "sugar3.identiq.dev:443"
       ],
       "aggregators": [
         "aggregator.identiq.dev:443"
       ],
       "suppliers": [
-        "edge7.identiq.dev:443",
-        "edge7.identiq.dev:443",
-        "edge7.identiq.dev:443",
-        "edge9.identiq.dev:443",
-        "edge9.identiq.dev:443",
-        "edge9.identiq.dev:443",
-        "edge2.identiq.dev:443",
-        "edge2.identiq.dev:443",
-        "edge2.identiq.dev:443"
+        "edge10.identiq.dev:443"
       ]
     }
   }
