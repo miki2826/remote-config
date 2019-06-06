@@ -2,15 +2,12 @@
   "data": {
     "assignments": {
       "sugars": [
-        "sugar1.identiq.dev:443",
-        "sugar2.identiq.dev:443",
-        "sugar3.identiq.dev:443"
+        "sugar1.identiq.dev:443"
       ],
       "aggregators": [
         "aggregator.identiq.dev:443"
       ],
       "suppliers": [
-        "edge5.identiq.dev:443",
         "edge7.identiq.dev:443"
       ]
     }
