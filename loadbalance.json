@@ -1,6 +1,6 @@
 {
     "ruleCls": "rules/availabe.rule",
-    "rules: [{
+    "rules": [{
         "service": "supplier",
         "ruleCls": "rules/round-robin-three.rule" 
     }, {
