@@ -1,0 +1,13 @@
+{
+    "ruleCls": "rules/availabe.rule",
+    "rules: [{
+        "service": "supplier",
+        "ruleCls": "rules/round-robin-three.rule" 
+    }, {
+        "service": "sugar",
+        "ruleCls": "rules/random-three.rule"
+    }, {
+        "service": "aggregator",
+        "ruleCls": "rules/round-robin-one.rule"
+    }]
+}
