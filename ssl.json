@@ -14,6 +14,11 @@
         "edge2.identiq.dev:443",
         "edge5.identiq.dev:443",
         "edge7.identiq.dev:443",
+        "edge9.identiq.dev:443",
+        "edge1.identiq.dev:443",
+        "edge2.identiq.dev:443",
+        "edge5.identiq.dev:443",
+        "edge7.identiq.dev:443",
         "edge9.identiq.dev:443"
       ]
     }
