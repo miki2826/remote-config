@@ -2,7 +2,7 @@
     "ruleCls": "rules/availabe.rule",
     "rules": [
         {
-            "service": "supplier",
+            "service": "edge",
             "ruleCls": "rules/available.rule"
         },
         {
