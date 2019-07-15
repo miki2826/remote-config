@@ -1,0 +1,18 @@
+
+{
+    "ruleCls": "rules/availableFilter.rule",
+    "rules": [
+        {
+            "service": "edge",
+            "ruleCls": "rules/availableFilter.rule"
+        },
+        {
+            "service": "sugar",
+            "ruleCls": "rules/available.rule"
+        },
+        {
+            "service": "aggregator",
+            "ruleCls": "rules/round-robin-one.rule"
+        }
+    ]
+}
