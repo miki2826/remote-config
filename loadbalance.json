@@ -3,7 +3,7 @@
     "rules": [
         {
             "service": "edge",
-            "ruleCls": "rules/availableFilter.rule"
+            "ruleCls": "rules/available-filter.rule"
         },
         {
             "service": "sugar",
