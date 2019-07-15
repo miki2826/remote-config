@@ -1,9 +1,9 @@
 {
-    "ruleCls": "rules/availabe.rule",
+    "ruleCls": "rules/availableFilter.rule",
     "rules": [
         {
             "service": "edge",
-            "ruleCls": "rules/available.rule"
+            "ruleCls": "rules/availableFilter.rule"
         },
         {
             "service": "sugar",
