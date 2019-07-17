@@ -1,5 +1,5 @@
 {
-    "ruleCls": "rules/availableFilter.rule",
+    "ruleCls": "rules/available-filter.rule",
     "rules": [
         {
             "service": "edge",
